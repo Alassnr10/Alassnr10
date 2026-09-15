@@ -2,9 +2,9 @@
 
 **Project Manager | AI Implementation, Automation & Digital Transformation**
 
-I am a project manager with 8 years of experience leading complex international programs, teams, budgets, operations, and institutional stakeholders.
+I build practical AI, automation and digital tools that turn operational problems into working systems.
 
-Since 2026, I have been building practical AI and automation systems that turn operational needs into working workflows, tools, and web applications. My focus is not on building AI for its own sake, but on using technology to improve processes, reduce manual work, structure information, and make operations easier to manage.
+My background is in project management, with 8 years of experience leading international programs, teams, budgets and operations. I now combine that operational experience with hands-on building using n8n, APIs, LLMs, databases and lightweight web applications.
 
 ## What I work on
 
@@ -21,17 +21,21 @@ Since 2026, I have been building practical AI and automation systems that turn o
 
 ## Selected work
 
-### Private Rental Owner Portal
+### [Peacebuilding Management Tool](https://github.com/Alassnr10/peacebuilding-management-tool)
 
-A client deployment combining automation, a Supabase data layer, and a private web portal to centralize bookings, payments, expenses, and operational information across multiple properties.
+An n8n workflow helping approved community mediators record, update and retrieve controlled conflict-case information using webhooks, Google Sheets and Telegram.
 
-### Farmer AI SMS Assistant
+[Published in the n8n template library](https://n8n.io/workflows/18561-route-sms-conflict-case-commands-via-webhook-using-google-sheets-and-telegram/)
 
-An SMS-based assistant designed to help farmers access useful information through simple mobile interactions. The workflow combines intent classification, structured data lookups, external services, and response generation.
+### [Farmer AI SMS Assistant](https://github.com/Alassnr10/farmer-ai-sms-assistant-demo)
 
-### Asana AI Project Manager
+An SMS-first agricultural assistant demonstrating deterministic routing and AI classification for farmers in low-connectivity environments.
 
-A prototype that converts natural-language instructions sent from Telegram into structured Asana actions using OpenAI, APIs, routing logic, and validation steps.
+[Published in the n8n template library](https://n8n.io/workflows/16818-route-farmer-sms-intents-using-openai-gpt-41-mini-classification/)
+
+### [Rental Owner Portal Demo](https://github.com/Alassnr10/bnb-owner-portal-demo)
+
+A sanitized demonstration of a rental operations system combining structured intake, automation and an owner-facing portal.
 
 ## How I approach technology
 
